@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import L8_Bondarenko_Alexander
+//@testable import L8_Bondarenko_Alexander
 
 class L8_Bondarenko_AlexanderTests: XCTestCase {
 
